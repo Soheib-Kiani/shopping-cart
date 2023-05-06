@@ -1,5 +1,5 @@
 # shopping-cart
-This is an advanced shopping cart which was developed by Vite.js, TypeScript and react-boostrap
+This is an advanced shopping cart which was developed by Vite.js, TypeScript and react-bootstrap
 
 
 To run the project
