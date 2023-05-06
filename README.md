@@ -11,7 +11,7 @@ Second :
 npm run dev
 
 Third : 
-Enjoy and feel free to Fork
-I would be happy, if you start my repo.
+Enjoy and feel free to Fork. 
+I would be happy, if you star my repo.
 
 Have a Greate Day
